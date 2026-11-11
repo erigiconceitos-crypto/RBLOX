@@ -1,0 +1,6 @@
+{
+  "name": "BloxCraft 3D - Roblox Engine & Studio",
+  "description": "Experiência 3D completa no estilo Roblox com jogabilidade clássica, avatar R6 customizável, física, modo Studio e importador de modelos RBL e 3D.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
